@@ -7,7 +7,7 @@
     - Create user database table with Spring JPA
     - Connect user table to Spring security
     - Register new users
-    - CSRF blocking for post requests (34:22)
+    - CSRF blocking for post requests
 5. **Customize error pages**
 6. **Customize login screen**
 7. **Redirect to a specific page after successful login**
